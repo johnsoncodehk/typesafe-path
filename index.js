@@ -1,1 +1,1 @@
-exports = require('path');
+module.exports = require('path');

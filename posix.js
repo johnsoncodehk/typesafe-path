@@ -1,1 +1,1 @@
-exports = require('path/posix');
+module.exports = require('path/posix');
