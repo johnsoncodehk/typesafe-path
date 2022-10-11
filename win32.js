@@ -1,1 +1,1 @@
-module.exports = require('path/win32');
+module.exports = require('path').win32;
